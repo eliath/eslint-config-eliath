@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-eliath",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork of airbnb",
   "main": "index.js",
   "scripts": {
