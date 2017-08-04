@@ -6,6 +6,7 @@ module.exports = {
     'func-names': ['error', 'never'],
     'import/first': 'error',
     'import/no-extraneous-dependencies': [2, { devDependencies: true  }],
+    'jsx-a11y/href-no-hash': 'off',
     'jsx-a11y/label-has-for': 'off',
     'jsx-a11y/media-has-caption': 'off',
     'jsx-a11y/no-autofocus': 'off',
