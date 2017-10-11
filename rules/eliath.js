@@ -16,6 +16,8 @@ module.exports = {
     'no-console': ['warn', { allow: ['warn', 'error'] }],
     'no-plusplus': 'off',
     'no-underscore-dangle': 'off',
+    'one-var': ['warn', { initialized: 'never', uninitialized: 'always' }],
+    'one-var-declaration-per-line': ['warn', 'initializations'],
     'react/jsx-closing-bracket-location': ['warn', 'after-props'],
     'react/jsx-filename-extension': 0,
     'react/jsx-tag-spacing': 'warn',
