@@ -12,6 +12,7 @@ module.exports = {
     'jsx-a11y/no-autofocus': 'off',
     'jsx-a11y/no-static-element-interactions': 'off',
     'jsx-quotes': ['warn', 'prefer-single'],
+    'max-len': ['warn', 80, 2],
     'no-confusing-arrow': ['error', { allowParens: true }],
     'no-console': ['warn', { allow: ['warn', 'error'] }],
     'no-plusplus': 'off',
