@@ -1,5 +1,6 @@
 module.exports = {
   rules: {
+    'array-bracket-spacing': 'warn',
     'arrow-parens': ['warn', 'as-needed'],
     'comma-dangle': ['warn', 'never'],
     'curly': 'off',
